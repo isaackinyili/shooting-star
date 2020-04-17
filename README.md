@@ -12,3 +12,9 @@ Create a seperate branch for each iteration of your work.
 After you submit, I will create a seperate branch for every member's code, and then we shall review the code together the next time we meet. Before then, I will have commented on everyone's code with any changes or improvements they need to make.
 
 Thank you and hope to see your work soon.
+
+I have added two files. 
+I have used HTML canvas element as the container for my javascript graphics
+I have succeded in drawing different shapes including circle,triangle and a square
+The javascript draw() method was UNABLE to work in order to animate(Make my shape to move) my shapes
+Kindly assist me.
